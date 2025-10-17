@@ -1,0 +1,48 @@
+ body {
+      font-family: 'Poppins', sans-serif;
+      background-color: #fff;
+      color: #333;
+    }
+    .navbar {
+      background-color: #fff;
+      border-bottom: 1px solid #eee;
+    }
+    .tituloo {
+      background-color: #f8b7c1;
+      color: #fff;
+      text-align: center;
+      padding: 100px 20px;
+    }
+    .macarones {
+      background-color: #c8ebf5;
+      text-align: center;
+      padding: 80px 20px;
+    }
+    .productos {
+      background-color: #fff;
+      padding: 80px 0;
+    }
+    .carta1{
+      background-color: #fce4ec;
+      border: none;
+      border-radius: 10px;
+      padding: 30px;
+      text-align: center;
+      transition: 0.3s;
+    }
+    .product-card:hover {
+      background-color: #f8bbd0;
+    }
+    footer {
+      background-color: #3d2e2e;
+      color: #fff;
+      padding: 40px 0;
+    }
+    .btn-pink {
+      background-color: #f48ca1;
+      color: #fff;
+      border: none;
+    }
+    .btn-pink:hover {
+      background-color: #ec708a;
+    }
